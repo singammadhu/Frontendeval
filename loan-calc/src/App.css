@@ -1,0 +1,18 @@
+ 
+
+.loan-cal {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.inputs {
+  margin-bottom: 20px;
+}
+
+.output {
+  margin-top: 20px;
+}
